@@ -1,0 +1,3 @@
+human.txt идентичны
+ветка демо явдется слиянием веток hat, boots и buttons
+в то время как мастер - слияние hat и boots_buttons (а эта ветка является слиянием boots и buttons)
